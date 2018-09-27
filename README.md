@@ -1,6 +1,6 @@
 # profile
 Back-end Developer @ MyAlbum  
-Since: 2008  
+2008 - Present: 2008  
   
 Developer @ MyAlbum  
 February 2006 – 2008
