@@ -1,11 +1,13 @@
-# Experience
+# Profile  
+
+## Experience
 Back-end Developer @ MyAlbum  
 2008 - Present  
   
 Developer @ MyAlbum  
-February 2006 – 2008
+February 2006 – 2008  
 
-# Education
+## Education
 Student/graduate @ NHL  
 Information Technology  
 Bachelor’s Degree  
