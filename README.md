@@ -1,6 +1,6 @@
 # Experience
 Back-end Developer @ MyAlbum  
-2008 - Present: 2008  
+2008 - Present  
   
 Developer @ MyAlbum  
 February 2006 – 2008
