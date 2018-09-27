@@ -8,4 +8,5 @@ February 2006 – 2008
 # Education
 Student/graduate @ NHL  
 Information Technology  
+Bachelor’s Degree  
 2002 - 2006
